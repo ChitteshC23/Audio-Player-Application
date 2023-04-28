@@ -1,0 +1,35 @@
+General Commands:
+ - If you don't know or if you forget the commands, just type 'help' & it will display all the commands for you
+ - To list all the audio content in the store --> Type 'Store'
+ - To download audio content from the store --> Type 'Download'
+ - To download audio content by the artist/author name --> Type 'DownloadA'
+ - To download songs by genre --> Type 'DownloadG'
+ - To list all the artists/author of all the audio content you downloaded --> Type 'Artists'
+ - To exist the application --> Type 'Q' or 'Quit'
+
+Song Commands: 
+ - To list all the songs downloaded in the library --> Type 'Songs'
+ - To play a song from your library --> Type 'PlaySong'
+ - To delete a song from your library --> Type 'DelSong'
+
+Book Commands:
+ - To list all the audiobooks downloaded in the library --> Type 'Books'
+ - To list the table of contents of a book --> Type 'BookTOC'
+ - To play a book from your library --> Type 'PlayBook'
+
+Playlist Commands: 
+ - To list all the playlists you created --> Type 'Playlists'
+ - To make a playlist --> Type 'MakePL'
+ - To play all the audiocontent from a playlist --> Type 'PlayAllPL'
+ - To play a specific content in a playlist --> Type 'PlayPL'
+ - To print all the audio content information in a playlist --> Type 'PrintPL' 
+ - To add a audio content to a playlist --> Type 'AddToPL'
+ - To delete a specific audio content from a playlist --> Type 'DelFromPL'
+
+Extra Commands:
+ - To sort the audio content in your library by year --> Type 'SortByYear'
+ - To sort the audio content in your library by artist/author name (in alphabetical order) --> Type 'SortByName'
+ - To sort the audio contents in your library by lenght --> Type 'SortByLength'
+ - To search for a audio content in the store by title --> Type 'Search'
+ - To search for a audio content in the store by artist/author name --> Type 'SearchA'
+ - To search for a song by genre in the stoe by genre --> Type 'SearchG'
