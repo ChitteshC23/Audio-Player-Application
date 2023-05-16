@@ -6,4 +6,4 @@
 - It implements many ascepts of Java, such as, objects & classes, inheritance, polymorphism, comparable & comparator             interface, collections, file I/O, and exceptions
 - For the Audio Player Program to effectively work, make sure...
      - You download all the Java files (.java) & the store.txt file 
-     - All the files you downloaded should be in the same project folder 
+     - All the files you downloaded are in the same project folder 
